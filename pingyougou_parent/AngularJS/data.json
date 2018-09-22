@@ -1,0 +1,6 @@
+[
+  {"name":"张三","math":100,"chinese":100},
+  {"name":"李四","math": 98 ,"chinese": 69 },
+  {"name":"王五","math": 76 ,"chinese": 70 },
+  {"name":"韩六","math": 0 ,"chinese": 0 }
+]

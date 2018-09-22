@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>AngularJS入门Demo</title>
+    <script src="angular.min.js"></script>
+    <script>
+        // 创建模块
+        var app= angular.module("myApp",[]);
+        //创建控制器 $Scope是控制层和视图层数据交换的桥梁
+        app.controller("myController",function ($scope) {
+            //两数求和方法
+            $scope.add=function () {
+                return $scope.z=parseInt($scope.a)+parseInt($scope.b);
+            };
+
+            //定义一个list集合，循环数组
+            $scope.list=[11,22,33,44,55];
+
+            //循环对象
+            $scope.list0=[
+                {name:'张三',math:'100',chinese:'100'},
+                {name:'李四',math:'98',chinese:'69'},
+                {name:'王五',math:'76',chinese:'70'},
+                {name:'韩六',math:'0',chinese:'0'}
+            ];
+
+        });
+    </script>
+</head>
+
+
+
+<body ng-app="myApp" ng-controller="myController">
+{{100+100}}
+请输入姓名：<input ng-model="name">{{name}}
+<br>------------------------------------------<br>
+
+第一个数：<input ng-model="a"><br>
+第二个数：<input ng-model="b"><br>
+<button ng-click="add()">计算</button>结果为：{{z}}
+
+<br>------------------------------------------<br>
+遍历list数组
+<table>
+    <tr ng-repeat="a in list">
+        <td>{{a}}</td>
+    </tr>
+</table>
+
+<br>------------------------------------------<br>
+<table>
+    <tr>
+        <td>name</td>
+        <td>math</td>
+        <td>chinese</td>
+    </tr>
+    <tr ng-repeat="entity in list0">
+        <td>{{entity.name}}</td>
+        <td>{{entity.math}}</td>
+        <td>{{entity.chinese}}</td>
+    </tr>
+
+</table>
+
+<br>------------------------------------------<br>
+
+
+</body>
+</html>
