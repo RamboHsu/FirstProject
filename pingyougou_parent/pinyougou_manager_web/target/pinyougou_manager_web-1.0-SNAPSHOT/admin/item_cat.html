@@ -13,22 +13,18 @@
     <link rel="stylesheet" href="../css/style.css">
 	<script src="../plugins/jQuery/jquery-2.2.3.min.js"></script>
     <script src="../plugins/bootstrap/js/bootstrap.min.js"></script>
-	<link rel="stylesheet" href="../plugins/select2/select2.css" />
-	<link rel="stylesheet" href="../plugins/select2/select2-bootstrap.css" />
-	<script type="text/javascript" src="../plugins/select2/select2.min.js"></script>
-
 
 	<script type="text/javascript" src="../plugins/angularjs/angular.min.js"> </script>
-	<script type="text/javascript" src="../js/base.js"> </script>
-	<script type="text/javascript" src="../js/angular-select2.js"></script>
 
+	<script type="text/javascript" src="../js/base.js"> </script>
 	<script type="text/javascript" src="../js/service/itemCatService.js"> </script>
+	<script type="text/javascript" src="../js/service/typeTemplateService.js"> </script>
 	<script type="text/javascript" src="../js/controller/baseController.js"> </script>
 	<script type="text/javascript" src="../js/controller/itemCatController.js"> </script>
 
 </head>
 
-<body class="hold-transition skin-red sidebar-mini" ng-app="pinyougou" ng-controller="itemCatController" ng-init="findByParentId(0)">
+<body class="hold-transition skin-red sidebar-mini" ng-app="pinyougou" ng-controller="itemCatController" ng-init="findByParentId(0);findTypeTemplateList()">
   <!-- .box-body -->
                 
                     <div class="box-header with-border">
@@ -57,8 +53,8 @@
                                 <div class="form-group form-inline">
                                     <div class="btn-group">
                                         <button type="button" class="btn btn-default" title="新建" data-toggle="modal" data-target="#editModal" ng-click=""><i class="fa fa-file-o"></i> 新建</button>
-                                        <button type="button" class="btn btn-default" title="删除" ><i class="fa fa-trash-o"></i> 删除</button>
-                                        <button type="button" class="btn btn-default" title="刷新" ng-click="dele()"><i class="fa fa-check"></i> 刷新</button>
+                                        <button type="button" class="btn btn-default" title="删除" ng-click="dele()"><i class="fa fa-trash-o"></i> 删除</button>
+                                        <button type="button" class="btn btn-default" title="刷新" ng-click="grade=1;selectList({id:0})"><i class="fa fa-check"></i> 刷新</button>
                                        
                                     </div>
                                 </div>
@@ -81,7 +77,7 @@
 			                      </thead>
 			                      <tbody>
 									  <tr ng-repeat="entity in list">
-			                              <td><input  type="checkbox"> </td>			                              
+			                              <td><input type="checkbox" ng-click="updateSelection($event,entity.id)"> </td>
 				                          <td>{{entity.id}}</td>
 									      <td>{{entity.name}}</td>
 									      <td>
@@ -133,7 +129,10 @@
 		      	<tr>
 		      		<td>类型模板</td>
 		      		<td>	      		
-		      			<input select2 select2-model="entity.typeId" config="options['type_template']" placeholder="商品类型模板" class="form-control" type="text"/>
+						<select ng-model="entity.typeId" placeholder="商品类型模板" class="form-control" type="text"
+								ng-options="typeTemplate.id as typeTemplate.name for typeTemplate in typeTemplateList">
+
+						</select>
 		      		</td>		      		      		
 		      	</tr>		      	
 			 </table>				

@@ -1,5 +1,5 @@
 //控制层
-app.controller('itemCatController', function ($scope, $controller, itemCatService) {
+app.controller('itemCatController', function ($scope, $controller, itemCatService,typeTemplateService) {
 
     $controller('baseController', {$scope: $scope});//继承
 
@@ -61,6 +61,7 @@ app.controller('itemCatController', function ($scope, $controller, itemCatServic
         itemCatService.dele($scope.selectIds).success(
             function (response) {
                 if (response.success) {
+                    // $scope.findByParentId(0);
                     $scope.reloadList();//刷新列表
                     $scope.selectIds = [];
                 }
@@ -113,6 +114,14 @@ app.controller('itemCatController', function ($scope, $controller, itemCatServic
         $scope.findByParentId(p_entity.id);//查询此级的下级列表
     }
 
+    //查询所有模板实体
+    $scope.findTypeTemplateList = function () {
+        typeTemplateService.findAll().success(
+            function (response) {
+                $scope.typeTemplateList = response;
+            }
+        );
+    }
 
 
 });	

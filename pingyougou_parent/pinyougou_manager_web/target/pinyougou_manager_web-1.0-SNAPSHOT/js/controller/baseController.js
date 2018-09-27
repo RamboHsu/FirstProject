@@ -11,10 +11,12 @@ app.controller('baseController', function ($scope) {
         }
     };
 
+
     //刷新列表
     $scope.reloadList = function () {
         $scope.search($scope.paginationConf.currentPage, $scope.paginationConf.itemsPerPage);
     };
+
 
     $scope.selectIds = [];//用户勾选的ID集合
     //用户勾选复选框
@@ -26,6 +28,7 @@ app.controller('baseController', function ($scope) {
             $scope.selectIds.splice(index, 1);//参数1：移除的位置 参数2：移除的个数
         }
     };
+
 
     $scope.jsonToString = function (jsonString, key) {
         var json = JSON.parse(jsonString);
