@@ -1,6 +1,7 @@
 package com.pinyougou.manager.controller;
 import java.util.List;
 
+import com.pinyougou.pojogroup.Goods;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -49,7 +50,7 @@ public class GoodsController {
 	 * @return
 	 */
 	@RequestMapping("/update")
-	public Result update(@RequestBody TbGoods goods){
+	public Result update(@RequestBody Goods goods){
 		try {
 			goodsService.update(goods);
 			return new Result(true, "修改成功");
@@ -65,7 +66,7 @@ public class GoodsController {
 	 * @return
 	 */
 	@RequestMapping("/findOne")
-	public TbGoods findOne(Long id){
+	public Goods findOne(Long id){
 		return goodsService.findOne(id);		
 	}
 	
@@ -95,6 +96,23 @@ public class GoodsController {
 	@RequestMapping("/search")
 	public PageResult search(@RequestBody TbGoods goods, int page, int rows  ){
 		return goodsService.findPage(goods, page, rows);		
+	}
+
+	/**
+	 * 更新状态
+	 * @param ids
+	 * @param status
+	 * @return
+	 */
+	@RequestMapping("/updateStatus")
+	public Result updateStatus(Long[] ids, String status) {
+		try {
+			goodsService.updateStatus(ids,status);
+			return new Result(true,"update successfully");
+		} catch (Exception e) {
+			e.printStackTrace();
+			return new Result(false,"update unsuccessfully");
+		}
 	}
 	
 }
