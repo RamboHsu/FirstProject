@@ -16,6 +16,10 @@
     <module>pinyougou_manager_web</module>
     <module>pinyougou_shop_web</module>
       <module>demo_fastDFS</module>
+      <module>pinyougou_content_interfance</module>
+    <module>pinyougou_content_service</module>
+      <module>pinyougou_portal_web</module>
+      <module>demo_SpringDataRedis</module>
 
   </modules>
   <packaging>pom</packaging>

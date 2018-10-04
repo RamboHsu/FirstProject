@@ -7,10 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="demo_fastDFS" />
+        <module name="demo_SpringDataRedis" />
         <module name="pinyougou_common" />
+        <module name="pinyougou_content_interfance" />
+        <module name="pinyougou_content_service" />
         <module name="pinyougou_dao" />
         <module name="pinyougou_manager_web" />
         <module name="pinyougou_pojo" />
+        <module name="pinyougou_portal_web" />
         <module name="pinyougou_sellergoods_interface" />
         <module name="pinyougou_sellergoods_service" />
         <module name="pinyougou_shop_web" />
@@ -18,11 +22,15 @@
     </annotationProcessing>
     <bytecodeTargetLevel target="9">
       <module name="demo_fastDFS" target="1.8" />
+      <module name="demo_SpringDataRedis" target="1.8" />
       <module name="pingyougou_parent" target="1.8" />
       <module name="pinyougou_common" target="1.8" />
+      <module name="pinyougou_content_interfance" target="1.8" />
+      <module name="pinyougou_content_service" target="1.8" />
       <module name="pinyougou_dao" target="1.8" />
       <module name="pinyougou_manager_web" target="1.8" />
       <module name="pinyougou_pojo" target="1.8" />
+      <module name="pinyougou_portal_web" target="1.8" />
       <module name="pinyougou_sellergoods_interface" target="1.8" />
       <module name="pinyougou_sellergoods_service" target="1.8" />
       <module name="pinyougou_shop_web" target="1.8" />
