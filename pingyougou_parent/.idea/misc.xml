@@ -9,11 +9,6 @@
         <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
-    <option name="ignoredFiles">
-      <set>
-        <option value="$PROJECT_DIR$/pinyougousearchinterface/pom.xml" />
-      </set>
-    </option>
   </component>
   <component name="ProjectResources">
     <resource url="http://code.alibabatech.com/schema/dubbo/dubbo.xsd" location="D:/Documents/dubbo.xsd" />
