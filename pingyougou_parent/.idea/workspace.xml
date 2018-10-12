@@ -761,7 +761,6 @@
       <change beforePath="" afterPath="$PROJECT_DIR$/../SSM/day12_SSM_Maven/src/main/resources/springmvc.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../SSM/day12_SSM_Maven/src/main/webapp/WEB-INF/pages/itemDetail.jsp" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../SSM/day12_SSM_Maven/src/main/webapp/WEB-INF/web.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../SSM/day12_SSM_Maven/src/main/webapp/index.jsp" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../SSM/day12_SSM_Maven/src/test/java/com/test/itemsTest.java" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../Trainning1/.idea/artifacts/ajax_json_war_exploded.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../Trainning1/.idea/artifacts/case01_war_exploded.xml" />
@@ -6251,10 +6250,7 @@
       <change beforePath="" afterPath="$PROJECT_DIR$/../travel/target/tomcat/conf/web.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../travel/target/tomcat/logs/access_log.2018-08-08" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../travel/travel.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/pinyougou_search_service_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/pinyougou_search_service_war_exploded.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/pinyougou_sellergoods_service_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/pinyougou_sellergoods_service_war_exploded.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/pinyougou_manager_web_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/pinyougou_manager_web_war_exploded.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/demo_fastDFS/target/demo_fastDFS-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/demo_fastDFS/target/demo_fastDFS-1.0-SNAPSHOT.jar" />
       <change beforePath="$PROJECT_DIR$/demo_fastDFS/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/demo_fastDFS/target/maven-archiver/pom.properties" />
@@ -6262,31 +6258,36 @@
       <change beforePath="$PROJECT_DIR$/pinyougou_common/target/pinyougou_common-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/pinyougou_common/target/pinyougou_common-1.0-SNAPSHOT.jar" />
       <change beforePath="$PROJECT_DIR$/pinyougou_dao/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/pinyougou_dao/target/maven-archiver/pom.properties" />
       <change beforePath="$PROJECT_DIR$/pinyougou_dao/target/pinyougou_dao-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/pinyougou_dao/target/pinyougou_dao-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/pinyougou_manager_web/pinyougou_manager_web.iml" afterPath="$PROJECT_DIR$/pinyougou_manager_web/pinyougou_manager_web.iml" />
+      <change beforePath="$PROJECT_DIR$/pinyougou_manager_web/pom.xml" afterPath="$PROJECT_DIR$/pinyougou_manager_web/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/pinyougou_manager_web/src/main/java/com/pinyougou/manager/controller/GoodsController.java" afterPath="$PROJECT_DIR$/pinyougou_manager_web/src/main/java/com/pinyougou/manager/controller/GoodsController.java" />
+      <change beforePath="$PROJECT_DIR$/pinyougou_manager_web/target/classes/com/pinyougou/manager/controller/GoodsController.class" afterPath="$PROJECT_DIR$/pinyougou_manager_web/target/classes/com/pinyougou/manager/controller/GoodsController.class" />
       <change beforePath="$PROJECT_DIR$/pinyougou_manager_web/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/pinyougou_manager_web/target/maven-archiver/pom.properties" />
       <change beforePath="$PROJECT_DIR$/pinyougou_manager_web/target/pinyougou_manager_web-1.0-SNAPSHOT.war" afterPath="$PROJECT_DIR$/pinyougou_manager_web/target/pinyougou_manager_web-1.0-SNAPSHOT.war" />
+      <change beforePath="$PROJECT_DIR$/pinyougou_manager_web/target/pinyougou_manager_web-1.0-SNAPSHOT/WEB-INF/classes/com/pinyougou/manager/controller/GoodsController.class" afterPath="$PROJECT_DIR$/pinyougou_manager_web/target/pinyougou_manager_web-1.0-SNAPSHOT/WEB-INF/classes/com/pinyougou/manager/controller/GoodsController.class" />
       <change beforePath="$PROJECT_DIR$/pinyougou_manager_web/target/pinyougou_manager_web-1.0-SNAPSHOT/WEB-INF/lib/pinyougou_pojo-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/pinyougou_manager_web/target/pinyougou_manager_web-1.0-SNAPSHOT/WEB-INF/lib/pinyougou_pojo-1.0-SNAPSHOT.jar" />
       <change beforePath="$PROJECT_DIR$/pinyougou_manager_web/target/pinyougou_manager_web-1.0-SNAPSHOT/WEB-INF/lib/pinyougou_sellergoods_interface-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/pinyougou_manager_web/target/pinyougou_manager_web-1.0-SNAPSHOT/WEB-INF/lib/pinyougou_sellergoods_interface-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/pinyougou_pojo/src/main/java/com/pinyougou/pojo/TbItem.java" afterPath="$PROJECT_DIR$/pinyougou_pojo/src/main/java/com/pinyougou/pojo/TbItem.java" />
+      <change beforePath="$PROJECT_DIR$/pinyougou_pojo/target/classes/com/pinyougou/pojo/TbItem.class" afterPath="$PROJECT_DIR$/pinyougou_pojo/target/classes/com/pinyougou/pojo/TbItem.class" />
       <change beforePath="$PROJECT_DIR$/pinyougou_pojo/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/pinyougou_pojo/target/maven-archiver/pom.properties" />
       <change beforePath="$PROJECT_DIR$/pinyougou_pojo/target/pinyougou_pojo-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/pinyougou_pojo/target/pinyougou_pojo-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/pinyougou_search_service/pinyougou_search_service.iml" afterPath="$PROJECT_DIR$/pinyougou_search_service/pinyougou_search_service.iml" />
-      <change beforePath="$PROJECT_DIR$/pinyougou_search_service/pom.xml" afterPath="$PROJECT_DIR$/pinyougou_search_service/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/pinyougou_portal_web/src/main/webapp/index.html" afterPath="$PROJECT_DIR$/pinyougou_portal_web/src/main/webapp/index.html" />
+      <change beforePath="$PROJECT_DIR$/pinyougou_portal_web/src/main/webapp/index.jsp" afterPath="$PROJECT_DIR$/../SSM/day12_SSM_Maven/src/main/webapp/index.jsp" />
+      <change beforePath="$PROJECT_DIR$/pinyougou_portal_web/src/main/webapp/js/controller/contentController.js" afterPath="$PROJECT_DIR$/pinyougou_portal_web/src/main/webapp/js/controller/contentController.js" />
+      <change beforePath="$PROJECT_DIR$/pinyougou_search_interface/src/main/java/com/pinyougou/search/service/ItemSearchService.java" afterPath="$PROJECT_DIR$/pinyougou_search_interface/src/main/java/com/pinyougou/search/service/ItemSearchService.java" />
       <change beforePath="$PROJECT_DIR$/pinyougou_search_service/src/main/java/com/pinyougou/search/service/impl/ItemSearchServiceImpl.java" afterPath="$PROJECT_DIR$/pinyougou_search_service/src/main/java/com/pinyougou/search/service/impl/ItemSearchServiceImpl.java" />
-      <change beforePath="$PROJECT_DIR$/pinyougou_search_web/src/main/webapp/js/base.js" afterPath="$PROJECT_DIR$/pinyougou_search_web/src/main/webapp/js/base.js" />
       <change beforePath="$PROJECT_DIR$/pinyougou_search_web/src/main/webapp/js/controller/searchController.js" afterPath="$PROJECT_DIR$/pinyougou_search_web/src/main/webapp/js/controller/searchController.js" />
       <change beforePath="$PROJECT_DIR$/pinyougou_search_web/src/main/webapp/search.html" afterPath="$PROJECT_DIR$/pinyougou_search_web/src/main/webapp/search.html" />
+      <change beforePath="$PROJECT_DIR$/pinyougou_sellergoods_interface/src/main/java/com/pinyougou/sellergoods/service/GoodsService.java" afterPath="$PROJECT_DIR$/pinyougou_sellergoods_interface/src/main/java/com/pinyougou/sellergoods/service/GoodsService.java" />
+      <change beforePath="$PROJECT_DIR$/pinyougou_sellergoods_interface/target/classes/com/pinyougou/sellergoods/service/GoodsService.class" afterPath="$PROJECT_DIR$/pinyougou_sellergoods_interface/target/classes/com/pinyougou/sellergoods/service/GoodsService.class" />
       <change beforePath="$PROJECT_DIR$/pinyougou_sellergoods_interface/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/pinyougou_sellergoods_interface/target/maven-archiver/pom.properties" />
       <change beforePath="$PROJECT_DIR$/pinyougou_sellergoods_interface/target/pinyougou_sellergoods_interface-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/pinyougou_sellergoods_interface/target/pinyougou_sellergoods_interface-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/pinyougou_sellergoods_service/pinyougou_sellergoods_service.iml" afterPath="$PROJECT_DIR$/pinyougou_sellergoods_service/pinyougou_sellergoods_service.iml" />
-      <change beforePath="$PROJECT_DIR$/pinyougou_sellergoods_service/pom.xml" afterPath="$PROJECT_DIR$/pinyougou_sellergoods_service/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/pinyougou_sellergoods_service/src/main/java/com/pinyougou/sellergoods/service/impl/ItemCatServiceImpl.java" afterPath="$PROJECT_DIR$/pinyougou_sellergoods_service/src/main/java/com/pinyougou/sellergoods/service/impl/ItemCatServiceImpl.java" />
-      <change beforePath="$PROJECT_DIR$/pinyougou_sellergoods_service/src/main/java/com/pinyougou/sellergoods/service/impl/TypeTemplateServiceImpl.java" afterPath="$PROJECT_DIR$/pinyougou_sellergoods_service/src/main/java/com/pinyougou/sellergoods/service/impl/TypeTemplateServiceImpl.java" />
+      <change beforePath="$PROJECT_DIR$/pinyougou_sellergoods_service/src/main/java/com/pinyougou/sellergoods/service/impl/GoodsServiceImpl.java" afterPath="$PROJECT_DIR$/pinyougou_sellergoods_service/src/main/java/com/pinyougou/sellergoods/service/impl/GoodsServiceImpl.java" />
       <change beforePath="$PROJECT_DIR$/pinyougou_sellergoods_service/src/main/resources/log4j.properties" afterPath="$PROJECT_DIR$/../heima_ssm/heima_ssm_web/src/main/resources/log4j.properties" />
-      <change beforePath="$PROJECT_DIR$/pinyougou_sellergoods_service/target/classes/com/pinyougou/sellergoods/service/impl/ItemCatServiceImpl.class" afterPath="$PROJECT_DIR$/pinyougou_sellergoods_service/target/classes/com/pinyougou/sellergoods/service/impl/ItemCatServiceImpl.class" />
-      <change beforePath="$PROJECT_DIR$/pinyougou_sellergoods_service/target/classes/com/pinyougou/sellergoods/service/impl/TypeTemplateServiceImpl.class" afterPath="$PROJECT_DIR$/pinyougou_sellergoods_service/target/classes/com/pinyougou/sellergoods/service/impl/TypeTemplateServiceImpl.class" />
+      <change beforePath="$PROJECT_DIR$/pinyougou_sellergoods_service/target/classes/com/pinyougou/sellergoods/service/impl/GoodsServiceImpl.class" afterPath="$PROJECT_DIR$/pinyougou_sellergoods_service/target/classes/com/pinyougou/sellergoods/service/impl/GoodsServiceImpl.class" />
       <change beforePath="$PROJECT_DIR$/pinyougou_sellergoods_service/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/pinyougou_sellergoods_service/target/maven-archiver/pom.properties" />
       <change beforePath="$PROJECT_DIR$/pinyougou_sellergoods_service/target/pinyougou_sellergoods_service-1.0-SNAPSHOT.war" afterPath="$PROJECT_DIR$/pinyougou_sellergoods_service/target/pinyougou_sellergoods_service-1.0-SNAPSHOT.war" />
-      <change beforePath="$PROJECT_DIR$/pinyougou_sellergoods_service/target/pinyougou_sellergoods_service-1.0-SNAPSHOT/WEB-INF/classes/com/pinyougou/sellergoods/service/impl/ItemCatServiceImpl.class" afterPath="$PROJECT_DIR$/pinyougou_sellergoods_service/target/pinyougou_sellergoods_service-1.0-SNAPSHOT/WEB-INF/classes/com/pinyougou/sellergoods/service/impl/ItemCatServiceImpl.class" />
-      <change beforePath="$PROJECT_DIR$/pinyougou_sellergoods_service/target/pinyougou_sellergoods_service-1.0-SNAPSHOT/WEB-INF/classes/com/pinyougou/sellergoods/service/impl/TypeTemplateServiceImpl.class" afterPath="$PROJECT_DIR$/pinyougou_sellergoods_service/target/pinyougou_sellergoods_service-1.0-SNAPSHOT/WEB-INF/classes/com/pinyougou/sellergoods/service/impl/TypeTemplateServiceImpl.class" />
+      <change beforePath="$PROJECT_DIR$/pinyougou_sellergoods_service/target/pinyougou_sellergoods_service-1.0-SNAPSHOT/WEB-INF/classes/com/pinyougou/sellergoods/service/impl/GoodsServiceImpl.class" afterPath="$PROJECT_DIR$/pinyougou_sellergoods_service/target/pinyougou_sellergoods_service-1.0-SNAPSHOT/WEB-INF/classes/com/pinyougou/sellergoods/service/impl/GoodsServiceImpl.class" />
       <change beforePath="$PROJECT_DIR$/pinyougou_sellergoods_service/target/pinyougou_sellergoods_service-1.0-SNAPSHOT/WEB-INF/lib/pinyougou_dao-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/pinyougou_sellergoods_service/target/pinyougou_sellergoods_service-1.0-SNAPSHOT/WEB-INF/lib/pinyougou_dao-1.0-SNAPSHOT.jar" />
       <change beforePath="$PROJECT_DIR$/pinyougou_sellergoods_service/target/pinyougou_sellergoods_service-1.0-SNAPSHOT/WEB-INF/lib/pinyougou_pojo-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/pinyougou_sellergoods_service/target/pinyougou_sellergoods_service-1.0-SNAPSHOT/WEB-INF/lib/pinyougou_pojo-1.0-SNAPSHOT.jar" />
       <change beforePath="$PROJECT_DIR$/pinyougou_sellergoods_service/target/pinyougou_sellergoods_service-1.0-SNAPSHOT/WEB-INF/lib/pinyougou_sellergoods_interface-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/pinyougou_sellergoods_service/target/pinyougou_sellergoods_service-1.0-SNAPSHOT/WEB-INF/lib/pinyougou_sellergoods_interface-1.0-SNAPSHOT.jar" />
@@ -6341,38 +6342,7 @@
     <favorites_list name="pingyougou_parent" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="ItemSearchServiceImpl.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pinyougou_search_service/src/main/java/com/pinyougou/search/service/impl/ItemSearchServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="132" column="14" lean-forward="true" selection-start-line="132" selection-start-column="14" selection-end-line="132" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="searchController.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pinyougou_search_web/src/main/webapp/js/controller/searchController.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="19" column="44" lean-forward="false" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="search.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pinyougou_search_web/src/main/webapp/search.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="509">
-              <caret line="194" column="59" lean-forward="true" selection-start-line="194" selection-start-column="59" selection-end-line="194" selection-end-column="59" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -6412,6 +6382,7 @@
       <find>class=&quot;attr</find>
       <find>商品分类</find>
       <find>品牌</find>
+      <find>下一页</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -6436,18 +6407,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pinyougou_manager_web/src/main/java/com/pinyougou/manager/controller/ContentCategoryController.java" />
-        <option value="$PROJECT_DIR$/pinyougou_manager_web/src/main/webapp/js/controller/contentController.js" />
-        <option value="$PROJECT_DIR$/pinyougou_manager_web/src/main/webapp/admin/content.html" />
-        <option value="$PROJECT_DIR$/pinyougou_portal_web/src/main/resources/config/application.properties" />
         <option value="$PROJECT_DIR$/pinyougou_portal_web/src/main/resources/spring/springmvc.xml" />
         <option value="$PROJECT_DIR$/pinyougou_shop_web/pom.xml" />
         <option value="$PROJECT_DIR$/pinyougou_portal_web/pom.xml" />
         <option value="$PROJECT_DIR$/pinyougou_portal_web/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/pinyougou_content_interfance/src/main/java/com/pinyougou/content/service/ContentService.java" />
-        <option value="$PROJECT_DIR$/pinyougou_portal_web/src/main/webapp/js/controller/contentController.js" />
         <option value="$PROJECT_DIR$/pinyougou_portal_web/src/main/webapp/js/service/contentService.js" />
-        <option value="$PROJECT_DIR$/pinyougou_portal_web/src/main/webapp/index.html" />
         <option value="$PROJECT_DIR$/pinyougou_portal_web/src/main/java/com/pinyougou/portal/controller/ContentController.java" />
         <option value="$PROJECT_DIR$/demo_SpringDataRedis/pom.xml" />
         <option value="$PROJECT_DIR$/demo_SpringDataRedis/src/main/java/test/TestValue.java" />
@@ -6464,12 +6429,10 @@
         <option value="$PROJECT_DIR$/pinyougou_solr_util/src/main/resources/applicationContext.xml" />
         <option value="$PROJECT_DIR$/demo_SpringDataSolr/src/main/java/cn/test/TestTemplate.java" />
         <option value="$PROJECT_DIR$/demo_SpringDataSolr/src/main/java/cn/pojo/TbItem.java" />
-        <option value="$PROJECT_DIR$/pinyougou_pojo/src/main/java/com/pinyougou/pojo/TbItem.java" />
         <option value="$PROJECT_DIR$/pinyougou_solr_util/pom.xml" />
         <option value="$PROJECT_DIR$/pinyougou_solr_util/src/main/java/com/pinyougou/solrutil/SolrUtil.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/pinyougou_search_interface/pom.xml" />
-        <option value="$PROJECT_DIR$/pinyougou_search_interface/src/main/java/com/pinyougou/search/service/ItemSearchService.java" />
         <option value="$PROJECT_DIR$/pinyougou_search_service/src/main/java/service/ItemSearchService.java" />
         <option value="$PROJECT_DIR$/pinyougou_search_service/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/pinyougou_search_service/src/main/resources/spring/applicationContext-service.xml" />
@@ -6484,8 +6447,16 @@
         <option value="$PROJECT_DIR$/pinyougou_sellergoods_service/src/main/java/com/pinyougou/sellergoods/service/impl/ItemCatServiceImpl.java" />
         <option value="$PROJECT_DIR$/pinyougou_sellergoods_service/src/main/java/com/pinyougou/sellergoods/service/impl/TypeTemplateServiceImpl.java" />
         <option value="$PROJECT_DIR$/pinyougou_search_service/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou_pojo/src/main/java/com/pinyougou/pojo/TbItem.java" />
+        <option value="$PROJECT_DIR$/pinyougou_portal_web/src/main/webapp/index.html" />
+        <option value="$PROJECT_DIR$/pinyougou_portal_web/src/main/webapp/js/controller/contentController.js" />
         <option value="$PROJECT_DIR$/pinyougou_search_web/src/main/webapp/js/controller/searchController.js" />
         <option value="$PROJECT_DIR$/pinyougou_search_web/src/main/webapp/search.html" />
+        <option value="$PROJECT_DIR$/pinyougou_sellergoods_interface/src/main/java/com/pinyougou/sellergoods/service/GoodsService.java" />
+        <option value="$PROJECT_DIR$/pinyougou_sellergoods_service/src/main/java/com/pinyougou/sellergoods/service/impl/GoodsServiceImpl.java" />
+        <option value="$PROJECT_DIR$/pinyougou_manager_web/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou_search_interface/src/main/java/com/pinyougou/search/service/ItemSearchService.java" />
+        <option value="$PROJECT_DIR$/pinyougou_manager_web/src/main/java/com/pinyougou/manager/controller/GoodsController.java" />
         <option value="$PROJECT_DIR$/pinyougou_search_service/src/main/java/com/pinyougou/search/service/impl/ItemSearchServiceImpl.java" />
       </list>
     </option>
@@ -6518,26 +6489,7 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="pingyougou_parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="pingyougou_parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="pinyougou_search_service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="pinyougou_search_service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
@@ -6546,8 +6498,8 @@
     <option name="vmOptions" value="-Xms128m -Xmx512m -Duser.language=zh -Dfile.encoding=UTF-8" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="172" />
-    <option name="y" value="44" />
+    <option name="x" value="140" />
+    <option name="y" value="143" />
     <option name="width" value="1546" />
     <option name="height" value="831" />
   </component>
@@ -6726,9 +6678,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -6740,7 +6691,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -6790,7 +6742,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Maven.search_web">
+  <component name="RunManager" selected="Maven.search_service">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -7175,7 +7127,8 @@
       <workItem from="1539086059057" duration="3367000" />
       <workItem from="1539097669685" duration="3375000" />
       <workItem from="1539133170063" duration="5038000" />
-      <workItem from="1539140165191" duration="24972000" />
+      <workItem from="1539140165191" duration="44411000" />
+      <workItem from="1539302930954" duration="20568000" />
     </task>
     <task id="LOCAL-00001" summary="push Project_pyg to Git">
       <created>1537585666570</created>
@@ -7212,13 +7165,17 @@
       <option name="project" value="LOCAL" />
       <updated>1539020610339</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Update Project_pyg 1.4.2&#10;Create search function by solr">
+      <created>1539238750125</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1539238750125</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestTemplate_testAdd - 2018.10.08 at 19h 23m 21s.xml">
-      <configuration name="TestTemplate.testAdd" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestTemplate_testAdd - 2018.10.08 at 19h 30m 58s.xml">
       <configuration name="TestTemplate.testAdd" configurationId="JUnit" />
     </history-entry>
@@ -7240,6 +7197,9 @@
     <history-entry file="TestTemplate_testDeleteAll - 2018.10.08 at 19h 32m 56s.xml">
       <configuration name="TestTemplate.testDeleteAll" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TestTemplate_testDeleteAll - 2018.10.12 at 20h 09m 40s.xml">
+      <configuration name="TestTemplate.testDeleteAll" configurationId="JUnit" />
+    </history-entry>
     <history-entry file="TestTemplate_testFindOne - 2018.10.08 at 19h 32m 23s.xml">
       <configuration name="TestTemplate.testFindOne" configurationId="JUnit" />
     </history-entry>
@@ -7248,7 +7208,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="577024000" />
+    <option name="totallyTimeSpent" value="617031000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -7264,19 +7224,20 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32826477" sideWeight="0.49785408" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32826477" sideWeight="0.4968652" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32826477" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900944" sideWeight="0.50429183" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14645922" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.116416305" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32429245" sideWeight="0.49570817" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3042453" sideWeight="0.49302575" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7299528" sideWeight="0.49302575" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291592" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32737032" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20761803" sideWeight="0.49292454" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16738197" sideWeight="0.49292454" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22371244" sideWeight="0.504717" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3284983" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -7290,10 +7251,42 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900944" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32826477" sideWeight="0.4968652" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32826477" sideWeight="0.49624464" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900944" sideWeight="0.50429183" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900944" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.116416305" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3284983" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3490566" sideWeight="0.4946352" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32826477" sideWeight="0.49785408" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32826477" sideWeight="0.4968652" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32826477" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32429245" sideWeight="0.49570817" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23076923" sideWeight="0.49302575" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291592" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32737032" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16738197" sideWeight="0.49292454" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22371244" sideWeight="0.504717" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32826477" sideWeight="0.49624464" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15343347" sideWeight="0.5070755" order="6" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -7344,7 +7337,8 @@
     <MESSAGE value="Update Project_pyg 1.2  &#10;Goods&amp;GoodsDesc CRUD Update" />
     <MESSAGE value="Update Project_pyg 1.3&#10;Create Content" />
     <MESSAGE value="Update Project_pyg 1.4.1&#10;Create search function by solr" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Project_pyg 1.4.1&#10;Create search function by solr" />
+    <MESSAGE value="Update Project_pyg 1.4.2&#10;Create search function by solr" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Project_pyg 1.4.2&#10;Create search function by solr" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -7357,67 +7351,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pinyougou_shop_web/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="57" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinyougou_search_web/src/main/resources/config/fdfs_client.conf" />
-    <entry file="file://$PROJECT_DIR$/pinyougou_search_web/src/main/resources/spring/spring-security.xml" />
-    <entry file="file://$PROJECT_DIR$/pinyougou_search_interface/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinyougou_search_service/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinyougou_search_service/src/main/resources/spring/applicationContext-solr.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinyougou_search_service/src/main/resources/spring/applicationContext-service.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="68" lean-forward="false" selection-start-line="13" selection-start-column="68" selection-end-line="13" selection-end-column="68" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinyougou_search_web/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="887">
-          <caret line="36" column="50" lean-forward="false" selection-start-line="36" selection-start-column="50" selection-end-line="36" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinyougou_search_web/src/main/resources/config/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinyougou_search_web/src/main/webapp/css/webbase.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pinyougou_search_web/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -7467,13 +7400,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinyougou_pojo/src/main/java/com/pinyougou/pojo/TbItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1500">
-          <caret line="68" column="0" lean-forward="true" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -7578,24 +7504,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pinyougou_manager_web/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="27" column="20" lean-forward="true" selection-start-line="27" selection-start-column="20" selection-end-line="29" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pinyougou_sellergoods_service/src/main/java/com/pinyougou/sellergoods/service/impl/BrandServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-758">
           <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinyougou_sellergoods_service/src/main/java/com/pinyougou/sellergoods/service/impl/ItemCatServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2033">
-          <caret line="128" column="55" lean-forward="false" selection-start-line="128" selection-start-column="55" selection-end-line="128" selection-end-column="55" />
         </state>
       </provider>
     </entry>
@@ -7632,7 +7544,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
           <caret line="113" column="0" lean-forward="false" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -7640,7 +7551,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -7648,7 +7558,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -7656,10 +7565,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
           <caret line="341" column="15" lean-forward="false" selection-start-line="341" selection-start-column="15" selection-end-line="341" selection-end-column="15" />
-          <folding>
-            <element signature="e#14027#14028#0" expanded="true" />
-            <element signature="e#14063#14064#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -7667,7 +7572,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
           <caret line="279" column="0" lean-forward="false" selection-start-line="279" selection-start-column="0" selection-end-line="279" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -7675,9 +7579,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="151">
           <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          <folding>
-            <element signature="e#1289#1290#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -7685,30 +7586,133 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
           <caret line="1022" column="0" lean-forward="false" selection-start-line="1022" selection-start-column="0" selection-end-line="1022" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougou_pojo/src/main/java/com/pinyougou/pojo/TbItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="42" column="30" lean-forward="true" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pinyougou_search_web/src/main/webapp/search.html">
+    <entry file="file://$PROJECT_DIR$/pinyougou_portal_web/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
-          <caret line="194" column="59" lean-forward="true" selection-start-line="194" selection-start-column="59" selection-end-line="194" selection-end-column="59" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougou_portal_web/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="74" column="114" lean-forward="false" selection-start-line="74" selection-start-column="114" selection-end-line="74" selection-end-column="114" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougou_portal_web/src/main/webapp/js/controller/contentController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="87" lean-forward="false" selection-start-line="13" selection-start-column="87" selection-end-line="13" selection-end-column="87" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pinyougou_search_web/src/main/webapp/js/controller/searchController.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="19" column="44" lean-forward="false" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+        <state relative-caret-position="372">
+          <caret line="120" column="23" lean-forward="false" selection-start-line="120" selection-start-column="11" selection-end-line="120" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougou_search_web/src/main/webapp/search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="21" column="85" lean-forward="false" selection-start-line="21" selection-start-column="85" selection-end-line="21" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougou_sellergoods_service/src/main/java/com/pinyougou/sellergoods/service/impl/ItemCatServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1392">
+          <caret line="128" column="55" lean-forward="false" selection-start-line="128" selection-start-column="55" selection-end-line="128" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougou_manager_web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="39" column="50" lean-forward="false" selection-start-line="39" selection-start-column="50" selection-end-line="39" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougou_sellergoods_interface/src/main/java/com/pinyougou/sellergoods/service/GoodsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="69" column="25" lean-forward="false" selection-start-line="69" selection-start-column="25" selection-end-line="69" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougou_search_interface/src/main/java/com/pinyougou/search/service/ItemSearchService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="23" column="3" lean-forward="false" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougou_sellergoods_service/src/main/java/com/pinyougou/sellergoods/service/impl/GoodsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="241" column="26" lean-forward="false" selection-start-line="241" selection-start-column="26" selection-end-line="241" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo_SpringDataSolr/src/main/java/cn/pojo/TbItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pinyougou_search_service/src/main/java/com/pinyougou/search/service/impl/ItemSearchServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="132" column="14" lean-forward="true" selection-start-line="132" selection-start-column="14" selection-end-line="132" selection-end-column="14" />
+        <state relative-caret-position="157">
+          <caret line="44" column="72" lean-forward="false" selection-start-line="44" selection-start-column="72" selection-end-line="44" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo_SpringDataSolr/src/main/java/cn/test/TestTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1875">
+          <caret line="89" column="24" lean-forward="true" selection-start-line="89" selection-start-column="24" selection-end-line="89" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougou_manager_web/src/main/java/com/pinyougou/manager/controller/GoodsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="21" column="15" lean-forward="false" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougou_solr_util/src/main/java/com/pinyougou/solrutil/SolrUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-251">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
           <folding />
         </state>
       </provider>
