@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="demo_fastDFS" />
+        <module name="demo_Freemarker" />
         <module name="demo_SpringDataRedis" />
         <module name="demo_SpringDataSolr" />
         <module name="pinyougou_common" />
@@ -14,6 +15,9 @@
         <module name="pinyougou_content_service" />
         <module name="pinyougou_dao" />
         <module name="pinyougou_manager_web" />
+        <module name="pinyougou_page_interface" />
+        <module name="pinyougou_page_service" />
+        <module name="pinyougou_page_web" />
         <module name="pinyougou_pojo" />
         <module name="pinyougou_portal_web" />
         <module name="pinyougou_search_interface" />
@@ -27,6 +31,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel target="9">
       <module name="demo_fastDFS" target="1.8" />
+      <module name="demo_Freemarker" target="1.8" />
       <module name="demo_SpringDataRedis" target="1.8" />
       <module name="demo_SpringDataSolr" target="1.8" />
       <module name="pingyougou_parent" target="1.8" />
@@ -35,6 +40,9 @@
       <module name="pinyougou_content_service" target="1.8" />
       <module name="pinyougou_dao" target="1.8" />
       <module name="pinyougou_manager_web" target="1.8" />
+      <module name="pinyougou_page_interface" target="1.8" />
+      <module name="pinyougou_page_service" target="1.8" />
+      <module name="pinyougou_page_web" target="1.8" />
       <module name="pinyougou_pojo" target="1.8" />
       <module name="pinyougou_portal_web" target="1.8" />
       <module name="pinyougou_search_interface" target="1.8" />

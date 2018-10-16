@@ -45,6 +45,9 @@
           <element id="archive" name="pinyougou_search_interface-1.0-SNAPSHOT.jar">
             <element id="module-output" name="pinyougou_search_interface" />
           </element>
+          <element id="archive" name="pinyougou_page_interface-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="pinyougou_page_interface" />
+          </element>
           <element id="library" level="project" name="Maven: org.springframework:spring-context:4.2.4.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-aop:4.2.4.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-core:4.2.4.RELEASE" />
