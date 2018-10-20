@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/demo_Freemarker/demo_Freemarker.iml" filepath="$PROJECT_DIR$/demo_Freemarker/demo_Freemarker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_JMS/demo_JMS.iml" filepath="$PROJECT_DIR$/demo_JMS/demo_JMS.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo_SpringDataRedis/demo_SpringDataRedis.iml" filepath="$PROJECT_DIR$/demo_SpringDataRedis/demo_SpringDataRedis.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo_SpringDataSolr/demo_SpringDataSolr.iml" filepath="$PROJECT_DIR$/demo_SpringDataSolr/demo_SpringDataSolr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_SpringJMS_consumer/demo_SpringJMS_consumer.iml" filepath="$PROJECT_DIR$/demo_SpringJMS_consumer/demo_SpringJMS_consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_SpringJMS_producer/demo_SpringJMS_producer.iml" filepath="$PROJECT_DIR$/demo_SpringJMS_producer/demo_SpringJMS_producer.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo_fastDFS/demo_fastDFS.iml" filepath="$PROJECT_DIR$/demo_fastDFS/demo_fastDFS.iml" />
       <module fileurl="file://$PROJECT_DIR$/pingyougou_parent.iml" filepath="$PROJECT_DIR$/pingyougou_parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/pinyougou_common/pinyougou_common.iml" filepath="$PROJECT_DIR$/pinyougou_common/pinyougou_common.iml" />

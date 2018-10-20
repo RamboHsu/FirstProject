@@ -8,8 +8,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="demo_fastDFS" />
         <module name="demo_Freemarker" />
+        <module name="demo_JMS" />
         <module name="demo_SpringDataRedis" />
         <module name="demo_SpringDataSolr" />
+        <module name="demo_SpringJMS_consumer" />
+        <module name="demo_SpringJMS_producer" />
         <module name="pinyougou_common" />
         <module name="pinyougou_content_interfance" />
         <module name="pinyougou_content_service" />
@@ -32,8 +35,11 @@
     <bytecodeTargetLevel target="9">
       <module name="demo_fastDFS" target="1.8" />
       <module name="demo_Freemarker" target="1.8" />
+      <module name="demo_JMS" target="1.8" />
       <module name="demo_SpringDataRedis" target="1.8" />
       <module name="demo_SpringDataSolr" target="1.8" />
+      <module name="demo_SpringJMS_consumer" target="1.8" />
+      <module name="demo_SpringJMS_producer" target="1.8" />
       <module name="pingyougou_parent" target="1.8" />
       <module name="pinyougou_common" target="1.8" />
       <module name="pinyougou_content_interfance" target="1.8" />

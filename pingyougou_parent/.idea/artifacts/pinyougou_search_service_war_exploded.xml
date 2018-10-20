@@ -39,6 +39,11 @@
           <element id="library" level="project" name="Maven: org.springframework.data:spring-data-keyvalue:1.1.2.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-oxm:4.2.6.RELEASE" />
           <element id="library" level="project" name="Maven: org.slf4j:jcl-over-slf4j:1.7.21" />
+          <element id="library" level="project" name="Maven: org.apache.activemq:activemq-client:5.13.4" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.13" />
+          <element id="library" level="project" name="Maven: org.apache.geronimo.specs:geronimo-jms_1.1_spec:1.1.1" />
+          <element id="library" level="project" name="Maven: org.fusesource.hawtbuf:hawtbuf:1.11" />
+          <element id="library" level="project" name="Maven: org.apache.geronimo.specs:geronimo-j2ee-management_1.1_spec:1.0.1" />
           <element id="library" level="project" name="Maven: org.springframework:spring-context:4.2.4.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-aop:4.2.4.RELEASE" />
           <element id="library" level="project" name="Maven: aopalliance:aopalliance:1.0" />
@@ -58,7 +63,6 @@
           <element id="library" level="project" name="Maven: org.springframework:spring-test:4.2.4.RELEASE" />
           <element id="library" level="project" name="Maven: com.alibaba:dubbo:2.8.4" />
           <element id="library" level="project" name="Maven: org.apache.zookeeper:zookeeper:3.4.7" />
-          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.6.1" />
           <element id="library" level="project" name="Maven: org.slf4j:slf4j-log4j12:1.6.1" />
           <element id="library" level="project" name="Maven: log4j:log4j:1.2.16" />
           <element id="library" level="project" name="Maven: jline:jline:0.9.94" />
