@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/dysmsapi_demo_sdk__java/alicom-dysms-api/alicom-dysms-api.iml" filepath="$PROJECT_DIR$/dysmsapi_demo_sdk__java/alicom-dysms-api/alicom-dysms-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dysmsapi_demo_sdk__java/alicom-mns-receive-samples/alicom-mns-receive-samples.iml" filepath="$PROJECT_DIR$/dysmsapi_demo_sdk__java/alicom-mns-receive-samples/alicom-mns-receive-samples.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo_Freemarker/demo_Freemarker.iml" filepath="$PROJECT_DIR$/demo_Freemarker/demo_Freemarker.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo_JMS/demo_JMS.iml" filepath="$PROJECT_DIR$/demo_JMS/demo_JMS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_SpringBoot/demo_SpringBoot.iml" filepath="$PROJECT_DIR$/demo_SpringBoot/demo_SpringBoot.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo_SpringDataRedis/demo_SpringDataRedis.iml" filepath="$PROJECT_DIR$/demo_SpringDataRedis/demo_SpringDataRedis.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo_SpringDataSolr/demo_SpringDataSolr.iml" filepath="$PROJECT_DIR$/demo_SpringDataSolr/demo_SpringDataSolr.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo_SpringJMS_consumer/demo_SpringJMS_consumer.iml" filepath="$PROJECT_DIR$/demo_SpringJMS_consumer/demo_SpringJMS_consumer.iml" />
@@ -27,6 +30,10 @@
       <module fileurl="file://$PROJECT_DIR$/pinyougou_sellergoods_service/pinyougou_sellergoods_service.iml" filepath="$PROJECT_DIR$/pinyougou_sellergoods_service/pinyougou_sellergoods_service.iml" />
       <module fileurl="file://$PROJECT_DIR$/pinyougou_shop_web/pinyougou_shop_web.iml" filepath="$PROJECT_DIR$/pinyougou_shop_web/pinyougou_shop_web.iml" />
       <module fileurl="file://$PROJECT_DIR$/pinyougou_solr_util/pinyougou_solr_util.iml" filepath="$PROJECT_DIR$/pinyougou_solr_util/pinyougou_solr_util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou_user_interfance/pinyougou_user_interfance.iml" filepath="$PROJECT_DIR$/pinyougou_user_interfance/pinyougou_user_interfance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou_user_service/pinyougou_user_service.iml" filepath="$PROJECT_DIR$/pinyougou_user_service/pinyougou_user_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou_user_web/pinyougou_user_web.iml" filepath="$PROJECT_DIR$/pinyougou_user_web/pinyougou_user_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sms_service/sms_service.iml" filepath="$PROJECT_DIR$/../sms_service/sms_service.iml" />
     </modules>
   </component>
 </project>

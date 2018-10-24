@@ -6,9 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="alicom-dysms-api" />
+        <module name="alicom-mns-receive-samples" />
         <module name="demo_fastDFS" />
         <module name="demo_Freemarker" />
         <module name="demo_JMS" />
+        <module name="demo_SpringBoot" />
         <module name="demo_SpringDataRedis" />
         <module name="demo_SpringDataSolr" />
         <module name="demo_SpringJMS_consumer" />
@@ -30,12 +33,21 @@
         <module name="pinyougou_sellergoods_service" />
         <module name="pinyougou_shop_web" />
         <module name="pinyougou_solr_util" />
+        <module name="pinyougou_user_interfance" />
+        <module name="pinyougou_user_service" />
+        <module name="pinyougou_user_web" />
+        <module name="sms_service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="9">
+      <module name="alicom-dysms-api" target="1.5" />
+      <module name="alicom-mns-receive-samples" target="1.6" />
+      <module name="aliyun-java-sdk-core" target="1.6" />
+      <module name="aliyun-java-sdk-dysmsapi" target="1.6" />
       <module name="demo_fastDFS" target="1.8" />
       <module name="demo_Freemarker" target="1.8" />
       <module name="demo_JMS" target="1.8" />
+      <module name="demo_SpringBoot" target="1.6" />
       <module name="demo_SpringDataRedis" target="1.8" />
       <module name="demo_SpringDataSolr" target="1.8" />
       <module name="demo_SpringJMS_consumer" target="1.8" />
@@ -58,7 +70,11 @@
       <module name="pinyougou_sellergoods_service" target="1.8" />
       <module name="pinyougou_shop_web" target="1.8" />
       <module name="pinyougou_solr_util" target="1.8" />
+      <module name="pinyougou_user_interfance" target="1.8" />
+      <module name="pinyougou_user_service" target="1.8" />
+      <module name="pinyougou_user_web" target="1.8" />
       <module name="pinyougousearchinterface" target="1.8" />
+      <module name="sms_service" target="1.6" />
     </bytecodeTargetLevel>
   </component>
 </project>
